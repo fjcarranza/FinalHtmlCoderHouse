@@ -14,7 +14,6 @@ body {
 /*---------- Fuentess ---------*/
 /*-----------------------------*/
 .logo {
-  /* height: 100%; */
   display: flex;
   padding-left: 20px;
   padding-right: 20px;
@@ -30,11 +29,6 @@ body {
   text-align: center;
 }
 
-/*header .navbar {
-    color: #ceeb0c; 
-    background-color:transparent;
-  }
-  */
 @media screen and (max-width: 991px) {
   .navbar-color {
     background: rgba(0, 0, 0, 0.737254902);
@@ -674,7 +668,6 @@ body {
 }
 
 .main-clientes {
-  /* background: linear-gradient(to right, #ff0099, #0004f0); */
   background: #212025;
   color: #fff;
   text-align: center;
@@ -721,25 +714,25 @@ body {
   border-radius: 10px;
 }
 .main-clientes .clientes .clientes-campanias .coca {
-  background-image: url("../Img/1-m.jpg");
+  background-image: url("../img/1-m.jpg");
 }
 .main-clientes .clientes .clientes-campanias .quilmes {
-  background-image: url("../Img/2-m.jpg");
+  background-image: url("../img/2-m.jpg");
 }
 .main-clientes .clientes .clientes-campanias .toyota {
-  background-image: url("../Img/3-m.jpg");
+  background-image: url("../img/3-m.jpg");
 }
 .main-clientes .clientes .clientes-campanias .ford {
-  background-image: url("../Img/4-m.jpg");
+  background-image: url("../img/4-m.jpg");
 }
 .main-clientes .clientes .clientes-campanias .arcor {
-  background-image: url("../Img/5-m.jpg");
+  background-image: url("../img/5-m.jpg");
 }
 .main-clientes .clientes .clientes-campanias .bimbo {
-  background-image: url("../Img/6-m.jpg");
+  background-image: url("../img/6-m.jpg");
 }
 .main-clientes .clientes .clientes-campanias .cosquin {
-  background-image: url("../Img/7-m.jpg");
+  background-image: url("../img/7-m.jpg");
 }
 
 footer {
